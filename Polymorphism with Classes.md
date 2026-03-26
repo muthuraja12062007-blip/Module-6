@@ -26,7 +26,12 @@ To create two specific classes — `Beans` and `Mango`. Then, create a **generic
 ---
 
 ## 💻 Program
+![WhatsApp Image 2026-03-27 at 1 29 50 AM](https://github.com/user-attachments/assets/68d01ffc-fa47-406d-b781-dd3e4d4fd375)
+
 
 ## Output
+![WhatsApp Image 2026-03-27 at 1 29 50 AM](https://github.com/user-attachments/assets/8f4b0884-e790-4b72-bda2-5a409fce2c01)
+
 
 ## Result
+Thus the program was successfully executed.and obtained the result.
